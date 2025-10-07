@@ -1,9 +1,3 @@
-//Estructura basica de un Service Worker
-
-const { cache } = require("react");
-
-
-
 
 
 //1. Nombre del cache y archivos a cachear 
